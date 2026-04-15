@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+venv37/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Data/results (optional, if you don't want to track outputs)
+*.npy
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
